@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """ A script that solve the nqueens problem """
 
-impoty sys
+import sys
 
 
 def is_safe(board, row, col, n):
